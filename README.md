@@ -1,4 +1,4 @@
-# Nova DAO Core Team 
+# Nova DAO Team 
 
 Team information to be used across sites and beyond. Please update your profile as needed. 
 
